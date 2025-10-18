@@ -1,6 +1,5 @@
 # Enumeration-Area-Delineation-for-West-Tselemti-Woreda
 Sample enumeration and Supervisors area to conduct Household surveys in Ethiopia 
-# Enumeration Area Delineation – West Tselemti Woreda
 
 This repository documents the **Enumeration Area (EA)** delineation process for **West Tselemti Woreda**, developed to support population-based humanitarian assessments, survey sampling, and field supervision structures.  
 The work can be implemented using **ArcGIS Pro** or QGIS.
