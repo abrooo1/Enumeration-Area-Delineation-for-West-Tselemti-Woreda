@@ -94,7 +94,7 @@ Each EA represents a residential cluster, designed to optimize data collection e
 ## 👤 Author
 **Abraham Zelalem Admassie**  
 *Data Analyst / GIS Specialist*  
-**Tools:** ArcGIS Pro 3.x | Google Earth Engine | Power BI | KoBoToolbox  
+**Tools:** ArcGIS Pro 3.x | QGIS with QGIS plugin| Python Geopandas | Google Earth Engine | Power BI | KoBoToolbox  
 **Date:** October 2025  
 
 ---
