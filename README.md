@@ -99,7 +99,3 @@ Each EA represents a residential cluster, designed to optimize data collection e
 
 ---
 
-### 📚 Reference
-Esri (2025). *Balance Territories for a National Census.* Learn ArcGIS Project.  
-[https://learn.arcgis.com/en/projects/balance-territories-for-a-national-census/](https://learn.arcgis.com/en/projects/balance-territories-for-a-national-census/)
-
